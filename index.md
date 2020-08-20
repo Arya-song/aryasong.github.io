@@ -12,7 +12,7 @@
   
 
   <style>
-    h1,h3 { font-family: Engravers MT;}
+    h1,h3,h4 { font-family: Engravers MT;}
     p { font-family: Helvetica Neue;
     color: rgb(128,128,128)
   </style>
@@ -26,13 +26,31 @@
 src=http://chuantu.xyz/t6/740/1597569841x-1224481926.jpg width="200" height="200">
   <p>Life is like riding a bicycle. To keep your balance, you must keep moving.</p> 
 </div>
-
+  <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <a class="navbar-brand" href="#">More</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="collapsbleNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="#header">About Me</a>
+        </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#body">Experience</a>
+        </li>
+      <li class="nav-item"><a class=
+      "nav-link" href="#footer">Contact Me</a>
+      </li>
+      </ul>
+      </div>
+      </nav>
 
 
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
-      <h3 id="header">About Me</h3>
+      <h3>About Me</h3>
       <p>I am Y2 student from UNNC, major in Finance Accounting and Management. </p>
       <p>In the process of participating STEM, I have managed a website creating project with my teammates, and I am responsible for the part of Career and company pages.</p>
     </div>
@@ -48,7 +66,17 @@ src=http://chuantu.xyz/t6/740/1597569841x-1224481926.jpg width="200" height="200
     </div>
   </div>
 </div>
+<div class="jumbotron text-center">
+  <h4>Contact Me</h4>
+  <p>Email:1419555789@qq.com</p>
+  </div>
+
 
 </body>
 </html>
+
+
+
+
+
 
