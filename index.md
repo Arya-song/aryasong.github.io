@@ -23,7 +23,7 @@
 <div class="jumbotron text-center">
   <h1>Arya Song</h1>
   <img 
-src=http://chuantu.xyz/t6/740/1597569841x-1224481926.jpg width="200" height="200">
+src=http://chuantu.xyz/t6/740/1597895129x977013264.jpg width="200" height="200">
   <p>Life is like riding a bicycle. To keep your balance, you must keep moving.</p> 
 </div>
   <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
